@@ -19,14 +19,14 @@ A customizable, elegant onboarding flow package for SwiftUI applications. Create
 Add this package to your project through Xcode:
 
 1. File → Add Package Dependencies
-2. Enter the package URL: `https://github.com/chingizagha/OnboardingFlow`
+2. Enter the package URL: `https://github.com/chingizagha/CustomOnboardingKit`
 3. Click Add Package
 
 Or add it to your `Package.swift`:
 
 ```swift
 dependencies: [
-    .package(url: "https://github.com/chingizagha/OnboardingFlow", from: "1.0.0")
+    .package(url: "https://github.com/chingizagha/CustomOnboardingKit", from: "1.0.0")
 ]
 ```
 
